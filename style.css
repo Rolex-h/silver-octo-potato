@@ -68,7 +68,7 @@ body p , a {
                blink-caret 0.5s steps( 30, end) infinite;
   }
 .typewriter h6 {
-    font-size: 22px;
+    font-size: 12px;
     color: #fff;
     font-family: monospace;
     overflow: hidden; 
@@ -76,8 +76,8 @@ body p , a {
     white-space: nowrap; 
     margin: 0 auto; 
     letter-spacing: .15em; 
-    animation: typing 4s steps(30, end) infinite,
-               blink-caret 0.5s steps( 30, end) infinite;
+    animation: typing 2s steps(30, end) infinite,
+               blink-caret 0.1s steps( 30, end) infinite;
   }
 
 
