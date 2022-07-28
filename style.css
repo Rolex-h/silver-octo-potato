@@ -72,7 +72,7 @@ body p , a {
     color: #fff;
     font-family: monospace;
     overflow: hidden; 
-    border-right: .15em solid #fff; 
+    border-right: .1em solid #fff; 
     white-space: nowrap; 
     margin: 0 auto; 
     letter-spacing: .15em; 
