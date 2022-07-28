@@ -77,7 +77,7 @@ body p , a {
     margin: 0 auto; 
     letter-spacing: .15em; 
     animation: typing 25s steps(35, end) infinite,
-               blink-carelet 0.8s steps(35, end) infinite;
+               blink-carelet 8s steps(35, end) infinite;
   }
 
 
