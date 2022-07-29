@@ -74,12 +74,12 @@ body p , a {
     color: #4287f5;
     font-family: monospace;
     overflow: hidden; 
-    border-right: .17em solid #fff; 
+    border-right: .15em solid #fff; 
     white-space: nowrap; 
-    margin: 4 auto; 
-    letter-spacing: .17em; 
-    animation: typing 4s steps(35, end) infinite,
-               blink-carelet 0.5s steps(35, end) infinite;
+    margin: 0 auto; 
+    letter-spacing: .15em; 
+    animation: typing 4s steps(30, end) infinite,
+               blink-carelet 0.5s steps(30, end) infinite;
   }
 
 
